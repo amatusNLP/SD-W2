@@ -33,10 +33,14 @@ Bibtex
 # DoMa
 The DoMa project include a set of domain specific matrices for Italian Language. Matrices were provided with a simple User Interface which helps to extract similarities, neighbors or word vectors from one or more matrices using different similarity measures. DoMa uses sse.jar in order to read the matrices and needs Java to work.
 download the zip file at:
+
   https://figshare.com/account/articles/22502524
+
 unzip the folder and start the UI
 
 The program reads the list of words in the text box on the left and generates:
 - Neighbors: a file with the n° neighbors for each word
 - Vectors: a file with all the required vectors, which includes all the words in the list
 - Similarities: a file for each word with a table of target_words X matrix
+
+The list of Matrices includes also a General Matrix built with Paisà Corpus (ITA)
