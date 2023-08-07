@@ -36,7 +36,7 @@ download the zip file at:
 
 https://figshare.com/ndownloader/files/39962242
 
-unzip the folder and start the UI
+unzip the folder and start the UI.
 
 The program reads the list of words in the text box on the left and generates:
 - Neighbors: a file with the n° neighbors for each word
