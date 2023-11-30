@@ -18,6 +18,9 @@ general commands:
 Please cite the paper:
 Maisto, Alessandro. "Extract Similarities from Syntactic Contexts: a Distributional Semantic Model Based on Syntactic Distance." Italian Journal of Computational Linguistics vol. 8, n. 2 december 2022 8 (2022): 63.
 
+Link:
+https://journals.openedition.org/ijcol/1086
+
 
 Bibtex
 @article{maisto2022extract,
